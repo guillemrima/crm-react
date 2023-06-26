@@ -23,8 +23,7 @@ const Index = () => {
                         <tr>
                             <th className="p-2">Clientes</th>
                             <th className="p-2">Contacto</th>
-                            <th className="p-2">Editar</th>
-                            <th className="p-2">Eliminar</th>
+                            <th className="p-2">Acciones</th>
                         </tr>
                     </thead>
                     <tbody>
