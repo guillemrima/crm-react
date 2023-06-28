@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": "102013313",
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
       "id": 2,
       "nombre": "Karen",
       "telefono": "138198313",
@@ -36,11 +29,11 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "nombre": "GUILLERMO",
+      "nombre": "GUILLERMO Actualizado",
       "empresa": "Desde React",
       "email": "rivasmartorellguillem@gmail.com",
       "telefono": "692188988",
-      "notas": "123",
+      "notas": "Puto amo",
       "id": 6
     }
   ]
